@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/beer-app/static/js/main.558a2ce4.chunk.js",
+    "main.js.map": "/beer-app/static/js/main.558a2ce4.chunk.js.map",
+    "runtime-main.js": "/beer-app/static/js/runtime-main.4abdf314.js",
+    "runtime-main.js.map": "/beer-app/static/js/runtime-main.4abdf314.js.map",
+    "static/js/2.f91d66cf.chunk.js": "/beer-app/static/js/2.f91d66cf.chunk.js",
+    "static/js/2.f91d66cf.chunk.js.map": "/beer-app/static/js/2.f91d66cf.chunk.js.map",
+    "index.html": "/beer-app/index.html",
+    "precache-manifest.69a0570a4542d779fd2d0ff4f86fff11.js": "/beer-app/precache-manifest.69a0570a4542d779fd2d0ff4f86fff11.js",
+    "service-worker.js": "/beer-app/service-worker.js",
+    "static/js/2.f91d66cf.chunk.js.LICENSE.txt": "/beer-app/static/js/2.f91d66cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abdf314.js",
+    "static/js/2.f91d66cf.chunk.js",
+    "static/js/main.558a2ce4.chunk.js"
+  ]
+}
