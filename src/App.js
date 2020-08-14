@@ -6,7 +6,7 @@ import BeerDetail from "./components/BeerDetail"
 const App = () => {
   return (
     <React.Fragment>
-      <Router>
+      <Router basename={`${process.env.PUBLIC_URL}/`}>
         <Route exact path="/" component={Beer} />
         <Route exact path="/beers/:id" component={BeerDetail} />
       </Router>
